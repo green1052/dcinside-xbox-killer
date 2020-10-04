@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         dcinside xbox killer
-// @namespace	 https://github.com/green1052/
-// @homepageURL	 https://github.com/green1052/dcinside-xbox-killer/
+// @namespace	 https://github.com/green1052
+// @homepageURL	 https://github.com/green1052/dcinside-xbox-killer
 // @downloadURL	 https://raw.githubusercontent.com/green1052/dcinside-xbox-killer/main/dcinside-xbox-killer.user.js
 // @version      1.0.0
 // @description  디시인사이드 엑스 박스 완화 유저 스크립트
