@@ -15,7 +15,7 @@
 
     const imgTag = document.getElementsByTagName("img");
 
-    for (const i = 0; i < imgTag.length; i++) {
+    for (let i = 0; i < imgTag.length; i++) {
         if (imgTag[i].src.includes(".dcinside.co.kr/viewimage.php?"))
             imgTag[i].src = `https://image.dcinside.com/viewimage.php?${imgTag[i].src.split("?")[1]}`;
     }
